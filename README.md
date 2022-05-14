@@ -12,7 +12,7 @@ Run React dev server (http://localhost:3000):
 Run the JSON server (http://localhost:5000):
 `npm run server`
 
-##How to add a task
+## How to add a task
 1. Click inside text box
 2. Type your task
 3. Click the date box
