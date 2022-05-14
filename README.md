@@ -12,5 +12,11 @@ Run React dev server (http://localhost:3000):
 Run the JSON server (http://localhost:5000):
 `npm run server`
 
-To build for production:
-`npm run build`
+##How to add a task
+1. Click inside text box
+2. Type your task
+3. Click the date box
+4. Choose your deadline date
+5. Click add task
+6. _Click the reminder box if you would like a reminder_
+7. _Click on the x icon to delete a task_
