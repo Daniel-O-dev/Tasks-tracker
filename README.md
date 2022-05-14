@@ -1,7 +1,8 @@
 # Tasks-tracker
  A website that involves React.JS and a mock JSON server for the backend to store the tasks inputted by the user. 
 
-##
+## How to run the app
+
 Install dependencies:
 `npm install`
 
