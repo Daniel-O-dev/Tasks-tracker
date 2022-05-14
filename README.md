@@ -6,11 +6,12 @@
 Install dependencies:
 `npm install`
 
+Run the JSON server (http://localhost:5000):
+`npm run server`
+
 Run React dev server (http://localhost:3000):
 `npm start`
 
-Run the JSON server (http://localhost:5000):
-`npm run server`
 
 ## How to add a task
 1. Click inside text box
@@ -22,5 +23,13 @@ Run the JSON server (http://localhost:5000):
 7. _Click on the x icon to delete a task_
 
 
-## Main features
-Tasks
+## Overview
+
+
+
+### Screenshots
+
+![Add task](/Screenshots/Add task.png)
+![show task](/Screenshots/delete task.PNG)
+![delete](/Screenshots/show tasks.PNG?raw=true)
+
