@@ -20,3 +20,7 @@ Run the JSON server (http://localhost:5000):
 5. Click add task
 6. _Click the reminder box if you would like a reminder_
 7. _Click on the x icon to delete a task_
+
+
+## Main features
+Tasks
