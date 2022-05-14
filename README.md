@@ -21,6 +21,7 @@ Run React dev server (http://localhost:3000):
 5. Click add task
 6. _Click the reminder box if you would like a reminder_
 7. _Click on the x icon to delete a task_
+8. _Double click the task to toggle reminder_
 
 
 ## Overview
@@ -29,7 +30,10 @@ Run React dev server (http://localhost:3000):
 
 ### Screenshots
 
-![ScreenShot](/Tasks-tracker/Screenshots/Add task.png?raw=true)
-![show task](./Screenshots/delete task.PNG)
-![delete](./Screenshots/show tasks.PNG?raw=true)
+<img src="https://github.com/Daniel-O-dev/Tasks-tracker/blob/4a0c4041c3a508e4fd80b0814e6bdd0fef57399a/Screenshots/Add%20task.png" alt="Add task" title="Add task" >
+<img src="https://github.com/Daniel-O-dev/Tasks-tracker/blob/f3ec6fec6131f7fa194bf8798580d3a38f869384/Screenshots/delete%20task.png" alt="delete task" title="delete task" >
+<img src="https://github.com/Daniel-O-dev/Tasks-tracker/blob/f3ec6fec6131f7fa194bf8798580d3a38f869384/Screenshots/show%20tasks.png" alt="show task" title="show task" >
+
+
+
 
