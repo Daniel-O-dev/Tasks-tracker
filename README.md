@@ -29,7 +29,7 @@ Run React dev server (http://localhost:3000):
 
 ### Screenshots
 
-![ScreenShot](/Screenshots/Add task.png)
+![ScreenShot](/Tasks-tracker/Screenshots/Add task.png?raw=true)
 ![show task](./Screenshots/delete task.PNG)
 ![delete](./Screenshots/show tasks.PNG?raw=true)
 
